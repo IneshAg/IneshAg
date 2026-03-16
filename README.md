@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Inesh</h1>
+<h3 align="center">AI | Embedded Systems | Game Development</h3>
 
-<!--
-**IneshAg/IneshAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Curious developer exploring **AI, Embedded Systems and Game Development**
+- Interested in **system design and deep tech**
+- Currently learning **Machine Learning and Flutter**
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,git,linux" />
+</p>
+
+---
+
+### 📌 Projects
+
+- **MNIST Digit Classifier** – ML model for handwritten digit recognition  
+- **KubeWise** – Kubernetes learning project  
+- **Distributed Systems Toolkit**
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=IneshAg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IneshAg&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 Connect With Me
+
+- LinkedIn
+- Portfolio
