@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- Curious developer exploring **AI, Embedded Systems and Game Development**
+- Curious developer exploring **Stuff**
 - Interested in **system design and deep tech**
 - Currently learning **Machine Learning and Flutter**
 
