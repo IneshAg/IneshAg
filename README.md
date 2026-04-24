@@ -31,8 +31,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IneshAg&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IneshAg&layout=compact&theme=tokyonight)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IneshAg&layout=compact&theme=tokyonight&cache_seconds=10) ---
 
 ### 🔗 Connect With Me
 
