@@ -26,19 +26,6 @@
 
 # 🧠 `WHO_AM_I()`
 
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   NAME       →  INESH AGARWAL                                  │
-│   ROLE       →  MOBILE × FULL-STACK × ML                       │
-│   MODE       →  BUILD / BREAK / LEARN / SHIP                   │
-│   INTERESTS  →  FINTECH · INSURTECH · AI · iOS · FLUTTER       │
-│   CURRENT    →  iOS Student Developer @ SRMIST                  │
-│                                                                 │
-│   STATUS     →  ███████████████████████░░  BUILDING            │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 B.Tech Computer Science @ SRMIST Chennai (2024–2028)
 
