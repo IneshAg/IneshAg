@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IneshAg" alt="Profile Views" />
+</p>
+
 ---
 
 # 🧠 `WHO_AM_I()`
