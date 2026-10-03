@@ -154,13 +154,11 @@ I like problems that don't have a Stack Overflow answer.
 
 # 📡 `ACTIVITY_SIGNAL`
 
-<!-- The public instance of github-readme-activity-graph is currently offline due to Vercel limits (402 Payment Required). 
-     You can uncomment this when it comes back online, or host your own instance. -->
-<!--
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IneshAg&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%" alt="GitHub activity graph"/>
+  <a href="https://github.com/IneshAg/IneshAg/actions/workflows/activity-graph.yml">
+    <img src="https://raw.githubusercontent.com/IneshAg/IneshAg/output/activity-graph.svg" width="95%" alt="GitHub activity graph"/>
+  </a>
 </p>
--->
 
 ---
 
