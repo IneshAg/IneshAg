@@ -1,51 +1,28 @@
-### Hi, I'm Inesh 👋
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"/><img src="assets/header-light.svg" alt="Inesh Agarwal. I build mobile apps and ML products, and I ship them. Currently shipping OneTake on iOS and Android. Top 15 of 4,400+ teams at Guidewire DEVTrails 2026." width="100%"/></picture>
+</p>
 
-I build mobile apps and ML products, and I like taking them all the way to shipped.
-CS undergrad at SRMIST Chennai ('28), open to internships.
+<p align="center">
+  <a href="https://github.com/IneshAg/OneTake-iOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/onetake-dark.svg"/><img src="assets/onetake-light.svg" alt="OneTake: self-tape audition studio for iOS and Android" width="49%"/></picture></a>
+  <a href="https://github.com/IneshAg/Hustlr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hustlr-dark.svg"/><img src="assets/hustlr-light.svg" alt="Hustlr: Top 15 of 4,400+ teams at Guidewire DEVTrails 2026" width="49%"/></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/IneshAg/Pre-Delinquency-Intervention-Engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/predelinquency-dark.svg"/><img src="assets/predelinquency-light.svg" alt="Pre-Delinquency Platform: ML that flags bank customers before they default" width="49%"/></picture></a>
+  <a href="https://github.com/IneshAg/SkillReels"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/skillreels-dark.svg"/><img src="assets/skillreels-light.svg" alt="SkillReels: short-form learning feed with in-feed coding challenges" width="49%"/></picture></a>
+</p>
 
-**Now** → building [OneTake](https://github.com/IneshAg/OneTake-iOS) natively for iOS and Android<br/>
-**Won** → Top 15 of 4,400+ teams at Guidewire DEVTrails 2026<br/>
-**Selected** → INSPIRE two-semester iOS Developer Program
+<p align="center">
+  <sub>Also: <a href="https://github.com/IneshAg/OneTake-Android">OneTake for Android</a> · <a href="https://github.com/IneshAg/Finsight">Finsight</a> · <a href="https://github.com/IneshAg/CIFAR">CIFAR-10 classifier</a></sub>
+</p>
 
-#### Projects
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"/><img src="assets/stack-light.svg" alt="Languages: Swift, Kotlin, Dart, Python, TypeScript, Java, C++. Frameworks: SwiftUI, Jetpack Compose, Flutter, React, FastAPI, Node.js. Data and ML: PostgreSQL, Supabase, SQLite, PyTorch, XGBoost, SHAP." width="100%"/></picture>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/IneshAg/OneTake-iOS"><b>OneTake</b></a><br/>
-<sub>SwiftUI · Jetpack Compose · AVFoundation · CameraX</sub>
-<p>A self-tape studio for actors, covering everything from running lines with a voice-follow teleprompter to exporting casting-ready tapes. Native on <a href="https://github.com/IneshAg/OneTake-iOS">iOS</a> and <a href="https://github.com/IneshAg/OneTake-Android">Android</a>.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/IneshAg/Hustlr"><b>Hustlr</b></a><br/>
-<sub>Flutter · Node.js · Supabase · PostgreSQL</sub>
-<p>InsurTech app that placed Top 15 of 4,400+ teams at Guidewire DEVTrails 2026.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/IneshAg/Pre-Delinquency-Intervention-Engine"><b>Pre-Delinquency Platform</b></a><br/>
-<sub>XGBoost · SHAP · FastAPI · React</sub>
-<p>Spots bank customers heading toward default before it happens, explains why, and keeps a human in the loop.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/IneshAg/SkillReels"><b>SkillReels</b></a><br/>
-<sub>React · TypeScript · FastAPI</sub>
-<p>A short-form learning feed with coding challenges built into it, plus an engine that interrupts passive scrolling.</p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>Hacktoberfest Super Contributor · Organizer, Techformers 1.0 (1,900+) · INSPIRE iOS Program</sub>
+</p>
 
-Also: [Finsight](https://github.com/IneshAg/Finsight) (ML finance dashboard) · [CIFAR-10](https://github.com/IneshAg/CIFAR) (PyTorch CNN)
-
-#### Stack
-
-Swift · Kotlin · Dart · Python · TypeScript<br/>
-SwiftUI · Jetpack Compose · Flutter · React<br/>
-FastAPI · Node.js · Supabase · PostgreSQL · PyTorch
-
-#### Elsewhere
-
-Hacktoberfest Super Contributor · Core organizer, Techformers 1.0 (1,900+ participants) · DevFest SRM
-
-[LinkedIn](https://www.linkedin.com/in/inesh-agarwal/) · [Email](mailto:ineshag123@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/inesh-agarwal/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:ineshag123@gmail.com"><b>Email</b></a>
+</p>
