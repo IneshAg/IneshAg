@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=7CFFB2&center=true&vCenter=true&width=900&lines=I+build+things+that+actually+work.;MOBILE+%C3%97+FULL-STACK+%C3%97+ML+%C3%97+INSURTECH;Top+15+%2F+4%2C400%2B+teams+%E2%80%94+Guidewire+DEVTrails+2026;IDEA+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+SHIP+%E2%86%92+REPEAT" alt="Animated typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=7CFFB2&center=true&vCenter=true&width=900&lines=I+build+things+that+actually+work.;Shipping+OneTake+on+iOS+%2B+Android;MOBILE+%C3%97+FULL-STACK+%C3%97+ML+%C3%97+INSURTECH;Top+15+%2F+4%2C400%2B+teams+%E2%80%94+Guidewire+DEVTrails+2026;IDEA+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+SHIP+%E2%86%92+REPEAT" alt="Animated typing"/>
 </p>
 
 <p align="center">
@@ -33,19 +33,18 @@
 # 🧠 `WHO_AM_I()`
 
 
-B.Tech Computer Science @ SRMIST Chennai (2024–2028)
+```yaml
+name:      Inesh Agarwal
+education: B.Tech Computer Science @ SRMIST Chennai (2024–2028)
+focus:     [Native iOS, Android, Flutter, Full-Stack, ML for Fintech]
+now:       Shipping OneTake — a self-tape audition studio for actors
+motto:     "what if we actually shipped this?"
+```
 
-I don't build **"tutorial projects."**
-
-I build things that start with:
-
-> **"what if we actually shipped this?"**
-
-Then the pipeline kicks in:
+I don't build **tutorial projects**. I build things that start as a "what if" and end up in someone's hands:
 
 `IDEA → ARCHITECTURE → CODE → CHAOS → DEBUG → DEPLOY → ITERATE`
 
-Currently building iOS apps, Flutter systems, and ML-powered fintech products.
 I like problems that don't have a Stack Overflow answer.
 
 ---
@@ -53,22 +52,28 @@ I like problems that don't have a Stack Overflow answer.
 # ⚡ `CURRENTLY_IN_THE_LAB`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=450&color=00F7FF&center=true&vCenter=true&width=820&lines=%3E+Learning+Swift+%2B+SwiftUI...;%3E+Building+iOS+apps...;%3E+Exploring+ML+for+fintech...;%3E+Status%3A+still+shipping." alt="Animated build status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=450&color=00F7FF&center=true&vCenter=true&width=820&lines=%3E+Shipping+OneTake+(SwiftUI+%2B+Compose)...;%3E+Going+deep+on+AVFoundation+%2B+CameraX...;%3E+Exploring+ML+for+fintech...;%3E+Status%3A+still+shipping." alt="Animated build status"/>
 </p>
 
 | 🔭 Building | 🧠 Learning | 🤝 Open To |
 |---|---|---|
-| iOS apps, Flutter systems, ML-powered dashboards | Swift, SwiftUI, System Design, Cloud | Internships, open source, hackathons, ambitious builds |
+| **OneTake** on iOS & Android, ML-powered fintech dashboards | Swift 6 concurrency, AVFoundation, Jetpack Compose, System Design | Internships, open source, hackathons, ambitious builds |
 
 ---
 
 # 🚀 `TOP_PROJECTS`
 
-| 🚀 Project | 🔗 Repo | 🧩 Stack | 📌 |
+| 🚀 Project | 🔗 Repo | 🧩 Stack | 📌 What it is |
 |:---|:---:|:---|:---|
-| **Hustlr** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Hustlr_) | Flutter, Node.js, Supabase, Python, PostgreSQL | 🏆 Top 15 / 4,400+ teams |
+| **OneTake · iOS** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/OneTake-iOS) | Swift, SwiftUI, AVFoundation, VisionKit, Speech | 🎬 Self-tape audition studio: voice-follow teleprompter, filming HUD, casting-ready exports |
+| **OneTake · Android** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/OneTake-Android) | Kotlin, Jetpack Compose, CameraX | 🤖 Native Android companion to OneTake |
+| **Hustlr** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Hustlr) | Flutter, Node.js, Supabase, Python, PostgreSQL | 🏆 Top 15 / 4,400+ teams, Guidewire DEVTrails 2026 |
 | **Finsight** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Finsight) | React, FastAPI, SQLite, ML | 💹 Finance + ML |
-| **CIFAR-10 Classifier** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/CIFAR) | Python, PyTorch, CNN | 🤖 Deep Learning |
+| **CIFAR-10 Classifier** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/CIFAR) | Python, PyTorch, CNN | 🧠 Deep learning image classification |
+
+<p align="center">
+  <a href="https://github.com/IneshAg?tab=repositories"><img src="https://img.shields.io/badge/SEE_ALL_REPOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
+</p>
 
 ---
 
@@ -88,12 +93,12 @@ I like problems that don't have a Stack Overflow answer.
 
 ### ⚔️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,dart,swift" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,dart,python,java,javascript,c,cpp" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css" alt="Frontend and Mobile"/>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,html,css" alt="Frontend and Mobile"/>
 </p>
 
 ### ⚙️ Backend
@@ -103,7 +108,7 @@ I like problems that don't have a Stack Overflow answer.
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,python" alt="AI ML"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="AI ML"/>
 </p>
 
 ### 🛠️ Tools
@@ -166,10 +171,10 @@ I like problems that don't have a Stack Overflow answer.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inesh-agarwal/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ineshag123@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
