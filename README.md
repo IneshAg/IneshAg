@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IneshAg">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to internships"/>
   <a href="https://www.linkedin.com/in/inesh-agarwal/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -38,6 +36,7 @@ name:      Inesh Agarwal
 education: B.Tech Computer Science @ SRMIST Chennai (2024–2028)
 focus:     [Native iOS, Android, Flutter, Full-Stack, ML for Fintech]
 now:       Shipping OneTake — a self-tape audition studio for actors
+open_to:   [Internships, Open Source, Hackathons]
 motto:     "what if we actually shipped this?"
 ```
 
@@ -46,36 +45,6 @@ I don't build **tutorial projects**. I build things that start as a "what if" an
 `IDEA → ARCHITECTURE → CODE → CHAOS → DEBUG → DEPLOY → ITERATE`
 
 I like problems that don't have a Stack Overflow answer.
-
----
-
-# ⚡ `CURRENTLY_IN_THE_LAB`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=450&color=00F7FF&center=true&vCenter=true&width=820&lines=%3E+Shipping+OneTake+(SwiftUI+%2B+Compose)...;%3E+Going+deep+on+AVFoundation+%2B+CameraX...;%3E+Exploring+ML+for+fintech...;%3E+Status%3A+still+shipping." alt="Animated build status"/>
-</p>
-
-| 🔭 Building | 🧠 Learning | 🤝 Open To |
-|---|---|---|
-| **OneTake** on iOS & Android, ML-powered fintech dashboards | Swift 6 concurrency, AVFoundation, Jetpack Compose, System Design | Internships, open source, hackathons, ambitious builds |
-
----
-
-# 🚀 `TOP_PROJECTS`
-
-| 🚀 Project | 🔗 Repo | 🧩 Stack | 📌 What it is |
-|:---|:---:|:---|:---|
-| **OneTake · iOS** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/OneTake-iOS) | Swift, SwiftUI, AVFoundation, VisionKit, Speech | 🎬 Self-tape audition studio: voice-follow teleprompter, filming HUD, casting-ready exports |
-| **OneTake · Android** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/OneTake-Android) | Kotlin, Jetpack Compose, CameraX | 🤖 Native Android companion to OneTake |
-| **Hustlr** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Hustlr) | Flutter, Node.js, Supabase, Python, PostgreSQL | 🏆 Top 15 / 4,400+ teams, Guidewire DEVTrails 2026 |
-| **Pre-Delinquency Intelligence Platform** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Pre-Delinquency-Intervention-Engine) | React, TypeScript, FastAPI, XGBoost, SHAP, MLflow | 🏦 Flags at-risk bank customers before they default, explains why, and keeps a human in the loop |
-| **SkillReels** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/SkillReels) | React, TypeScript, Vite, FastAPI, SQLModel | 📲 Short-form learning feed with in-feed coding challenges and an adaptive recommendation engine |
-| **Finsight** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Finsight) | React, FastAPI, SQLite, ML | 💹 Finance + ML |
-| **CIFAR-10 Classifier** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/CIFAR) | Python, PyTorch, CNN | 🧠 Deep learning image classification |
-
-<p align="center">
-  <a href="https://github.com/IneshAg?tab=repositories"><img src="https://img.shields.io/badge/SEE_ALL_REPOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
-</p>
 
 ---
 
@@ -88,6 +57,46 @@ I like problems that don't have a Stack Overflow answer.
 🎯  Core Organizer          →  Techformers 1.0 (1,900+ participants)
 📸  Visual Contributor      →  DevFest SRM, Google Developer Groups on Campus
 ```
+
+---
+
+# 🎬 `FLAGSHIP: ONETAKE`
+
+**The actor's self-tape audition studio, built natively for iOS and Android.** It covers the whole audition: scan the sides, run lines, film the takes, check them, and package the tape for casting.
+
+- 🎭 **Voice-follow teleprompter** that scrolls as you speak, using on-device speech recognition
+- 🎥 **Filming HUD** with slate countdown, exposure lock, eye-line grid and hold-to-stop
+- ⭐ **Automated tape check** for framing, eye-line and audio clipping
+- 📦 **One-tap export** presets for Actors Access, Casting Networks and Spotlight
+
+<p>
+  <a href="https://github.com/IneshAg/OneTake-iOS"><img src="https://img.shields.io/badge/iOS-Swift_%C2%B7_SwiftUI_%C2%B7_AVFoundation-111827?style=for-the-badge&logo=apple&logoColor=white" alt="OneTake iOS"/></a>
+  <a href="https://github.com/IneshAg/OneTake-Android"><img src="https://img.shields.io/badge/Android-Kotlin_%C2%B7_Compose_%C2%B7_CameraX-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="OneTake Android"/></a>
+</p>
+
+---
+
+# ⚡ `CURRENTLY_IN_THE_LAB`
+
+| 🔭 Building | 🧠 Learning | 🤝 Open To |
+|---|---|---|
+| **OneTake** on iOS & Android, ML-powered fintech dashboards | Swift 6 concurrency, AVFoundation, Jetpack Compose, System Design | Internships, open source, hackathons, ambitious builds |
+
+---
+
+# 🚀 `TOP_PROJECTS`
+
+| 🚀 Project | 🔗 Repo | 🧩 Stack | 📌 What it is |
+|:---|:---:|:---|:---|
+| **Hustlr** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Hustlr) | Flutter, Node.js, Supabase, Python, PostgreSQL | 🏆 Top 15 / 4,400+ teams, Guidewire DEVTrails 2026 |
+| **Pre-Delinquency Intelligence Platform** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Pre-Delinquency-Intervention-Engine) | React, TypeScript, FastAPI, XGBoost, SHAP, MLflow | 🏦 Flags at-risk bank customers before they default, explains why, and keeps a human in the loop |
+| **SkillReels** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/SkillReels) | React, TypeScript, Vite, FastAPI, SQLModel | 📲 Short-form learning feed with in-feed coding challenges and an adaptive recommendation engine |
+| **Finsight** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/Finsight) | React, FastAPI, SQLite, ML | 💹 Finance + ML |
+| **CIFAR-10 Classifier** | [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/IneshAg/CIFAR) | Python, PyTorch, CNN | 🧠 Deep learning image classification |
+
+<p align="center">
+  <a href="https://github.com/IneshAg?tab=repositories"><img src="https://img.shields.io/badge/SEE_ALL_REPOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
+</p>
 
 ---
 
@@ -165,23 +174,6 @@ I like problems that don't have a Stack Overflow answer.
   <a href="https://github.com/IneshAg/IneshAg/actions/workflows/activity-graph.yml">
     <img src="https://raw.githubusercontent.com/IneshAg/IneshAg/output/activity-graph.svg" width="95%" alt="GitHub activity graph"/>
   </a>
-</p>
-
----
-
-# 🌐 `ESTABLISH_CONNECTION`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/inesh-agarwal/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ineshag123@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=600&color=7CFFB2&center=true&vCenter=true&width=780&lines=Got+a+problem%3F;Got+a+wild+idea%3F;Want+to+build+something+that+doesn't+exist+yet%3F;open_connection()%3B" alt="Connection animation"/>
 </p>
 
 ---
